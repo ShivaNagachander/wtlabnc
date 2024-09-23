@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #f0f0f0;
+  }
+  .box {
+    padding: 15px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  input {
+    margin: 5px 0;
+    width: 100%;
+    padding: 8px;
+  }
+  input[type="submit"] {
+    background: #4CAF50;
+    color: white;
+    cursor: pointer;
+  }
+  a {
+    color: #007BFF;
+  }
+
